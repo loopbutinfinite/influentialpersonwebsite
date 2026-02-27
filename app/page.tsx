@@ -14,7 +14,7 @@ export default function Home() {
           <p className="text-xl text-center mx-10 mb-10 lg:mb-0">Honestly, I find Poe so inspiring because he took all that trauma from his life and turned it into these dark, creepy stories that basically invented modern horror. The fact that his death is still this total mystery just adds to his vibe for me, like he's still a character in one of his own twisted tales.</p>
         </div>
       </div>
-      <div className="grid lg:grid-cols-4 gap-10">
+      <div className="grid lg:grid-cols-4">
         <Link href="/Pages/Biography">
           <div className="">
             <img className="w-[300px] h-[430px] lg:mt-15 mx-auto" src="../PoeBiography.jpg" alt="Edgar Allan Poe Portrait" />

@@ -4,9 +4,9 @@ const Accomplishments = () => {
     return (
         <div className="bg-linear-to-bl from-[#9754cb] to-[#523a5e32] grid w-screen min-h-screen font-serif justify-center">
             <main className="">
-                <div className="grid lg:grid-cols-4 mt-20 mx-10 lg:mt-30 lg:mx-10">
+                <div className="grid lg:grid-cols-4 mt-20 mx-10 lg:mt-15 lg:mx-10">
                     <div className="lg:col-span-1">
-                        <img className="w-[460px] h-[630px] lg:mt-24 mx-auto lg:mx-auto" src="../PoeAccomplishments.jpg" alt="Edgar Allan Poe Portrait" />
+                        <img className="w-[460px] h-[630px] lg:mt-18 mx-auto lg:mx-auto" src="../PoeAccomplishments.jpg" alt="Edgar Allan Poe Portrait" />
                     </div>
                     <div className="my-auto lg:col-span-3 lg:ms-20 mt-10 lg:mt-0 lg:mb-0 mb-10 ">
                         <h2 className="text-4xl lg:text-6xl text-center mb-4 text-shadow-lg/80">Edgar Allan Poe's Accomplishments</h2>

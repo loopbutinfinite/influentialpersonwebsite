@@ -4,7 +4,7 @@ const Biography = () => {
     return (
         <div className="bg-linear-to-bl from-[#9754cb] to-[#523a5e32] grid w-screen min-h-screen font-serif justify-center">
             <main className="">
-                <div className="grid lg:grid-cols-2 my-15 lg:mt-30 mx-10 ">
+                <div className="grid lg:grid-cols-2 my-15 lg:mt-10 mx-10 ">
                     <div className="mb-10 lg:mb-0">
                         <img className="w-[460px] h-[630px] lg:mt-30 mx-auto" src="../PoeBiography.jpg" alt="Edgar Allan Poe Portrait" />
                     </div>

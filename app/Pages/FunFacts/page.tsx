@@ -4,8 +4,8 @@ const FunFacts = () => {
     return (
         <div className="bg-linear-to-bl from-[#9754cb] to-[#523a5e32] grid w-screen min-h-screen font-serif justify-center">
             <main className="">
-                <div className="grid lg:grid-cols-2 my-15 lg:mt-30 lg:gap-10 mx-10 lg:mx-10">
-                    <div className="">
+                <div className="grid lg:grid-cols-2 my-15 lg:mt-10 lg:gap-10 mx-10 lg:mx-10">
+                    <div className="mb-12">
                         <img className="w-[460px] h-[630px] mx-auto mb-10 lg:mb-0 lg:mt-30" src="../PoeFunFacts.jpeg" alt="Edgar Allan Poe Portrait" />
                     </div>
                     <div className="my-auto">

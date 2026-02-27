@@ -4,9 +4,9 @@ const Interests = () => {
     return (
         <div className="bg-linear-to-bl from-[#9754cb] to-[#523a5e32] grid w-screen min-h-screen font-serif justify-center">
             <main className="">
-                <div className="grid lg:grid-cols-2 my-15 lg:mb-0 lg:mt-30 lg:mx-30">
-                    <div className="">
-                        <img className="w-[460px] h-[630px] mt-25 mx-auto mb-10 lg:mb-0" src="../PoeInterests.jpeg" alt="Edgar Allan Poe Portrait" />
+                <div className="grid lg:grid-cols-2 my-15 lg:mb-0 lg:mt-10 lg:mx-30">
+                    <div className="mb-10">
+                        <img className="w-[460px] h-[550px] mt-25 mx-auto mb-10 lg:mb-0" src="../PoeInterests.jpeg" alt="Edgar Allan Poe Portrait" />
                     </div>
                     <div className="my-auto mx-10 lg:mx-0">
                         <h2 className="text-6xl text-center mb-4 text-shadow-lg/80">Edgar Allan Poe's Interests</h2>
