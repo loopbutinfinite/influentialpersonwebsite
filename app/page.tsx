@@ -10,7 +10,8 @@ export default function Home() {
         </div>
         <div className="my-auto">
           <h2 className="text-6xl text-center mb-15 text-shadow-lg/80">Edgar Allan Poe:</h2>
-          <h3 className="text-2xl text-center mb-10 lg:mb-0">American Writer and Critic</h3>
+          <h3 className="text-2xl text-center mb-10 lg:mb-5">American Writer and Critic</h3>
+          <p className="text-xl text-center mx-10 mb-10 lg:mb-0">Honestly, I find Poe so inspiring because he took all that trauma from his life and turned it into these dark, creepy stories that basically invented modern horror. The fact that his death is still this total mystery just adds to his vibe for me, like he's still a character in one of his own twisted tales.</p>
         </div>
       </div>
       <div className="grid lg:grid-cols-4 gap-10">
